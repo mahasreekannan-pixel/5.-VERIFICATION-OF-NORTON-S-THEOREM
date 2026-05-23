@@ -25,19 +25,22 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="1009" height="359" alt="image" src="https://github.com/user-attachments/assets/82c02f83-a2b7-4be2-b70d-5dd2de400aee" />
 
 
-**To measure RTh or RN**
+**To measure RN**
+
+<img width="625" height="197" alt="image" src="https://github.com/user-attachments/assets/54d930ef-044d-44d6-b77b-8b2be82a3475" />
 
 
+**To measure IN**
 
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
+<img width="986" height="319" alt="image" src="https://github.com/user-attachments/assets/02140601-d88c-4efd-ac29-4159e1eaa744" />
 
 
 **Norton’s equivalent circuit**
+
+<img width="731" height="441" alt="image" src="https://github.com/user-attachments/assets/373312c0-c7f2-4fd0-9741-e7f762b9229e" />
 
 
 **PROCEDURE:**
@@ -50,43 +53,43 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 4.	Switch off the supply and make connections for Circuit Diagram 2.
 
-5.	Measure the Thevenin’s resistance RTh= Norton’s resistance RN .
+5.	Measure the Norton’s resistance RN .
 
 6.	Switch off the supply and make connections for Circuit Diagram:3.
 
-7.	Set an input voltage of 10V in the RPS and note down the voltmeter readings Vi and VTh(=Voc) in Tabular Column:3
+7.	Set an input voltage of 10V in the RPS and note down the voltmeter readings Vi and VN in Tabular Column:3
 
 8.	Switch off the supply and make connections for Circuit Diagram 4.
 
-9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN (= Isc) in Tabular Column 4.
+9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN  in Tabular Column 4.
 
-10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
+10.	Draw the Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
 
 11.	Calculate the IL value using the formula
-
-   	Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
 
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
-To measure I L
+To measure IL
 
-Vi (volts)	IL (amps)
+<img width="436" height="154" alt="image" src="https://github.com/user-attachments/assets/cb8eb4a3-045e-4f5f-bdb0-bb1873c0c903" />
+
 
 **TABULAR COLUMN:2**
 
-To measure RTh or RN
+To measure RN
 
-Vi (volts)	RTh (Ω)
+<img width="453" height="177" alt="image" src="https://github.com/user-attachments/assets/ed270354-8dfd-4335-956b-9fe2a547ae9a" />
 
 
 **TABULAR COLUMN:3**
 
-To measure IN or Isc
+To measure IN
 
-Vi (volts)	IN (amps)
+<img width="454" height="167" alt="image" src="https://github.com/user-attachments/assets/681ed722-e8f2-4f64-9e45-5eb80d779bbc" />
+
 	
 **MODEL CALCULATION:**
 
@@ -98,8 +101,11 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/db47e70b-1ece-4991-a7ff-289a52c856a6" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c304311f-406e-4cdc-a386-faf003dced80" />
 
 
 **RESULT:**
 
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+Thus Norton’s theorem is verified practically and theoretically.
