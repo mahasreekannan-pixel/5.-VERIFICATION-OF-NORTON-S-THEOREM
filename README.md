@@ -105,6 +105,10 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c304311f-406e-4cdc-a386-faf003dced80" />
 
+**MARK SPLIT UP:**
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/e2157722-9a3a-46cc-bca3-f847fb79da83" />
+
 
 **RESULT:**
 
